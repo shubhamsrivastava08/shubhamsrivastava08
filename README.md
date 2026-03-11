@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hy Everyone:
 👋 Hi, I’m Shubham Srivastava  <br>🎓 B.Tech CSE (Cybersecurity) student at BBIT, Kolkata  <br>💻 Interested in Cybersecurity and programming  <br>🌱 Currently learning Python and security tools and Linux , mysql  <br>⚡ I enjoy building tech projects and learning new things
 
 
