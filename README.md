@@ -1,128 +1,236 @@
-<div align="center">
+# 💀 About Me
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020024,30:090979,70:0066ff,100:00d4ff&text=Shubham%20Srivastava&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38"/>
+```text
+👋 Hi, I'm Shubham Srivastava.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Python+Developer;Linux+Enthusiast;Backend+Learner;Always+Learning+Something+New"/>
+I'm a final-year Computer Science student specializing in Cybersecurity.
+I enjoy building secure, scalable, and practical software while constantly
+learning new technologies.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/shubham-srivastava-515730326/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+My interests lie in:
 
-<a href="mailto:srivastavashubham680@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+• Cybersecurity
+• Python Development
+• Linux Administration
+• Backend Engineering
+• Network Security
+• Automation
+• Open Source
 
-<img src="https://komarev.com/ghpvc/?username=shubhamsrivastava08&style=for-the-badge&color=00c3ff"/>
+I believe in learning by building real-world projects rather than
+only reading theory.
 
-</p>
-
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="35"> whoami
-
-```bash
-> whoami
-
-Name        : Shubham Srivastava
-Education   : B.Tech CSE (Cybersecurity)
-University  : MAKAUT
-College     : BBIT, Kolkata
-
-Role        : Student Developer
-Focus       : Cybersecurity
-Languages   : Python | Java | C | C++ | JavaScript
-
-OS          : Linux ❤️
-Database    : MySQL | SQLite
-
-Status      : Building real-world projects
-Goal        : Software Engineer + Security Engineer
-
-Location    : India
+Current Mission:
+Become a Software Engineer capable of building secure applications
+that solve real-world problems.
 ```
 
 ---
 
-# 💀 About Me
+# 👨‍💻 Who I Am
 
-```text
-I'm passionate about building secure software,
-learning modern technologies,
-and solving real-world problems through code.
+```yaml
+name: Shubham Srivastava
 
-I enjoy Python development,
-Linux,
-Cybersecurity,
-Backend Development,
-Automation,
-and Open Source.
+role: Cybersecurity Student
 
-Every project I build teaches me something new,
-and every commit takes me one step closer
-to becoming a better engineer.
+education:
+  degree: B.Tech CSE (Cybersecurity)
+  college: Budge Budge Institute of Technology
+  university: MAKAUT
+
+currently_learning:
+  - Python
+  - Linux
+  - MySQL
+  - Backend Development
+  - DSA
+  - Networking
+
+interests:
+  - Software Development
+  - Cybersecurity
+  - Automation
+  - Cloud Computing
+  - Open Source
+
+currently_working_on:
+  - CampusPilot ERP
+  - Security Projects
+  - Python Utilities
+
+goal:
+  Become a Software Development Engineer &
+  Cybersecurity Professional.
 ```
 
 ---
 
 # ⚡ At a Glance
 
-| 💻 | Details |
-|:---|:--------|
-| 🎓 Degree | B.Tech CSE (Cybersecurity) |
-| 🏫 College | BBIT, MAKAUT |
-| 🐍 Favorite Language | Python |
-| 🐧 Favorite OS | Linux |
-| 💼 Looking For | Software Development & Cybersecurity Roles |
-| 🌱 Learning | DSA • Backend • Security • Linux |
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👨 Name           :: Shubham Srivastava
+
+🎓 Degree         :: B.Tech CSE (Cybersecurity)
+
+🏫 University     :: MAKAUT
+
+💻 Coding         :: Python • Java • C • C++
+
+🐧 Operating Sys  :: Linux
+
+🗄 Database       :: MySQL • SQLite
+
+🔐 Interests      :: Cybersecurity
+                    Backend Development
+                    Networking
+                    Automation
+
+🚀 Goal           :: Software Engineer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 ---
 
-# 🔭 Currently Building
+# 🔭 Currently Building & Learning
 
 ```diff
 + CampusPilot ERP
-+ Python Automation Scripts
-+ Cybersecurity Projects
-+ Networking Knowledge
-+ Backend Development Skills
-+ DSA Practice
+
++ Python Automation
+
++ Linux Administration
+
++ Backend Development
+
++ REST APIs
+
++ SQL Optimization
+
++ Network Programming
+
++ Ethical Hacking Basics
+
++ Data Structures & Algorithms
 ```
 
 ---
 
 # 🧰 Tech Arsenal
 
-### Languages
+## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
 </p>
 
-### Databases
+---
+
+## 🗄 Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=sqlite"/>
+
 </p>
 
-### Tools
+---
+
+## ⚙ Operating Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=ubuntu"/>
+
+<img src="https://skillicons.dev/icons?i=windows"/>
+
 </p>
 
-### Currently Exploring
+---
+
+## 🛠 Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,ubuntu"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=bash"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
 </p>
+
+---
+
+## 🔐 Security Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=kali"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
+```text
+Additional Tools
+
+• Nmap
+
+• Wireshark
+
+• MySQL
+
+• SQLite
+
+• Shell Scripting
+```
+
+---
+
+## ☕ Development Philosophy
+
+```text
+while(alive){
+
+    Learn();
+
+    Build();
+
+    Break();
+
+    Fix();
+
+    Repeat();
+
+}
+```
 
 ---
 
 <div align="center">
 
-### ⚡ "Code. Learn. Secure. Repeat."
+### ⚡ "Security isn't about hacking systems. It's about understanding them."
 
 </div>
