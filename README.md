@@ -1,349 +1,261 @@
-<div align="center">
+# <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,35:0F172A,70:1D4ED8,100:38BDF8&text=Shubham%20Srivastava&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:2563EB,100:06B6D4&text=Shubham%20Srivastava&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38"/>
 
-<h1>👋 Hello, I'm Shubham Srivastava</h1>
-
-<h3>
-Cybersecurity Student • Python Developer • Linux Enthusiast • Future Software Engineer
-</h3>
-
-<p>
-
-<a href="https://www.linkedin.com/in/shubham-srivastava-515730326/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:srivastavashubham680@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=shubhamsrivastava08&style=flat-square&color=0ea5e9"/>
-
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Secure+Software...;Learning+Something+New+Every+Day...;Python+%7C+Linux+%7C+Cybersecurity+%7C+Backend"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Python+Developer;Linux+Enthusiast;Open+Source+Learner;Future+Security+Engineer"/>
 
 </div>
 
+---
 
-<h2 align="center">👨‍💻 About Me</h2>
+# 👨‍💻 About Me
 
-<table>
-<tr>
+🎓 Final Year B.Tech CSE (Cyber Security)
 
-<td width="55%" valign="top">
+🏫 Budge Budge Institute of Technology, Kolkata
 
-### 💀 About
+💻 Passionate about Software Development & Cybersecurity
 
-```text
-> Hello, I'm Shubham Srivastava.
+🌱 Currently learning
 
-A Cybersecurity student passionate
-about building secure software,
-learning Linux,
-and exploring backend development.
+- Python
+- Linux
+- MySQL
+- Networking
+- Ethical Hacking
+- DSA
 
-I enjoy solving problems through code
-and continuously improving my skills
-with real-world projects.
-```
+🚀 Interested in
 
-</td>
+- Cybersecurity
+- Python Development
+- Backend Development
+- Open Source
 
-<td width="45%" valign="top">
+⚡ Goal
 
-### ⚡ whoami
-
-```bash
-$ whoami
-
-Name      :: Shubham Srivastava
-
-Role      :: Student Developer
-
-Focus     :: Cybersecurity
-
-Language  :: Python
-
-OS        :: Linux
-
-Database  :: MySQL
-
-Status    :: Learning
-
-Goal      :: SDE + Security Engineer
-```
-
-</td>
-
-</tr>
-</table>
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamsrivastava08&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-
-</table>
+Become a Software Engineer & Cybersecurity Professional.
 
 ---
 
-## ⚡ At A Glance
+# 🚀 Featured Projects
 
-| 🎯 | |
-|------|------------------------------|
-| 🎓 Degree | B.Tech CSE (Cybersecurity) |
-| 🏫 College | BBIT |
-| 🏛 University | MAKAUT |
-| 💻 Languages | Python • Java • C • C++ |
-| 🐧 OS | Linux |
-| 🗄 Database | MySQL • SQLite |
-| ❤️ Interests | Cybersecurity • Backend • Automation |
+## 🎓 CampusPilot
+
+College ERP System
+
+⭐ Student Management
+
+⭐ Attendance
+
+⭐ Marks
+
+⭐ Report Cards
+
+⭐ SQLite Database
+
+⭐ Dashboard
+
+⭐ PDF Reports
 
 ---
 
-## 🔭 Currently Building
+## 🔐 Password Strength Checker
 
-```text
-📦 CampusPilot ERP
+Python Application
 
-├── Student Management
-├── Attendance System
-├── Marks Analytics
-├── PDF Reports
-├── Dashboard
-└── SQLite Database
-```
+✔ Password Analysis
 
-```text
-📚 Currently Learning
+✔ Security Score
 
-● Python Automation
+✔ Suggestions
 
-● REST APIs
+---
 
-● Linux Administration
+## 🌐 Network Scanner
 
-● Computer Networking
+Python + Nmap
 
-● Data Structures
+✔ Host Discovery
 
-● MySQL Optimization
-```
-<br>
+✔ Port Scanner
 
-<h2 align="center">🚀 Featured Projects</h2>
+✔ Service Detection
 
-<table>
+---
 
-<tr>
+# 🛠 Tech Stack
 
-<td width="50%">
+### Languages
 
-<h3 align="center">🎓 CampusPilot ERP</h3>
-
-<p align="center">
-
-College ERP built with Python & SQLite.
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js"/>
 </p>
 
-### ✨ Features
+### Database
 
-- 👨‍🎓 Student Management
-- 📅 Attendance System
-- 📊 Result Analytics
-- 📄 PDF Report Cards
-- 🔍 Search System
-- 👨‍🏫 Faculty Dashboard
-- 📚 Subject Management
-- 🔐 Secure Login
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash"/>
+</p>
+
+### Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=ps,ai"/>
+</p>
+
+---
+
+# 📚 Currently Learning
+
+✔ Python Automation
+
+✔ Linux Administration
+
+✔ Cybersecurity
+
+✔ Networking
+
+✔ DSA
+
+✔ MySQL
+
+---
+
+# 📜 Certifications
+
+🏅 Infosys Springboard AI Internship
+
+🏅 Cybersecurity Analyst Job Simulation
+
+🏅 Python Programming
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://linkedin.com/in/shubham-srivastava-515730326">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:srivastavashubham680@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
-</td>
+---
 
-<td width="50%">
+# 📊 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="180"/>
+<p align="center">
 
-</td>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhamsrivastava08&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</tr>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsrivastava08&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</table>
+</p>
 
 ---
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/security/security.png" width="180"/>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🔐 Password Strength Checker</h3>
-
-Python tool for evaluating password security.
-
-### Features
-
-- Password Analysis
-- Entropy Calculation
-- Suggestions
-- Security Score
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
+<img src="https://streak-stats.demolab.com?user=shubhamsrivastava08&theme=tokyonight&hide_border=true"/>
 
 </p>
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🌐 Network Scanner</h3>
-
-Python based Network Scanner.
-
-### Features
-
-- Host Discovery
-- Port Scanner
-- Banner Detection
-- Service Enumeration
+# 📈 Contribution Graph
 
 <p align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamsrivastava08&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
-</td>
+---
 
-<td width="50%">
-
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/networking/networking.png" width="180"/>
-
-</td>
-
-</tr>
-
-</table>
-
-<h2 align="center">🏆 Journey</h2>
-
-```text
-2023
-
-Started B.Tech
-│
-├── Learned C Programming
-│
-├── Learned C++
-│
-└── Started Python
-
-2024
-
-Linux
-
-MySQL
-
-SQLite
-
-Cybersecurity Basics
-
-2025
-
-Python Projects
-
-Networking
-
-Automation
-
-CampusPilot
-
-2026
-
-Backend Development
-
-Cybersecurity Projects
-
-Preparing for Software Engineering Roles
-```
-
-<h2 align="center">📜 Certifications</h2>
-
-| Certification | Status |
-|---------------|--------|
-| Infosys Springboard AI Internship | ✅ |
-| Cybersecurity Analyst Job Simulation | ✅ |
-| Python Programming | ✅ |
-
-<h2 align="center">⚙ Tech Stack</h2>
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=ubuntu"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=bash"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shubhamsrivastava08&theme=algolia&no-frame=true&column=7"/>
 
 </p>
 
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/shubhamsrivastava08/shubhamsrivastava08/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+⭐ LeetCode
+
+⭐ HackerRank
+
+⭐ CodeChef
+
+⭐ GeeksforGeeks
+
+(Add your profile links here)
+
+---
+
+# ⚡ Fun Facts
+
+💙 I enjoy solving programming problems.
+
+🐧 Linux is my favorite operating system.
+
+🔐 Cybersecurity fascinates me.
+
+🚀 I love building useful projects.
+
+☕ Coffee + Code = Productivity.
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shubhamsrivastava08&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> "Security is not a product, it's a process."
+>
+> — Bruce Schneier
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,100:0F172A"/>
+
+</div>
