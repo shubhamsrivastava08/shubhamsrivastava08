@@ -1,3 +1,32 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,35:0F172A,70:1D4ED8,100:38BDF8&text=Shubham%20Srivastava&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn"/>
+
+<h1>👋 Hello, I'm Shubham Srivastava</h1>
+
+<h3>
+Cybersecurity Student • Python Developer • Linux Enthusiast • Future Software Engineer
+</h3>
+
+<p>
+
+<a href="https://www.linkedin.com/in/shubham-srivastava-515730326/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:srivastavashubham680@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=shubhamsrivastava08&style=flat-square&color=0ea5e9"/>
+
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Secure+Software...;Learning+Something+New+Every+Day...;Python+%7C+Linux+%7C+Cybersecurity+%7C+Backend"/>
+
+</div>
+
+
 <h2 align="center">👨‍💻 About Me</h2>
 
 <table>
