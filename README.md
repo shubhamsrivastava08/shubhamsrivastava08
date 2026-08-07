@@ -1,236 +1,143 @@
-# 💀 About Me
-
-```text
-👋 Hi, I'm Shubham Srivastava.
-
-I'm a final-year Computer Science student specializing in Cybersecurity.
-I enjoy building secure, scalable, and practical software while constantly
-learning new technologies.
-
-My interests lie in:
-
-• Cybersecurity
-• Python Development
-• Linux Administration
-• Backend Engineering
-• Network Security
-• Automation
-• Open Source
-
-I believe in learning by building real-world projects rather than
-only reading theory.
-
-Current Mission:
-Become a Software Engineer capable of building secure applications
-that solve real-world problems.
-```
-
----
-
-# 👨‍💻 Who I Am
-
-```yaml
-name: Shubham Srivastava
-
-role: Cybersecurity Student
-
-education:
-  degree: B.Tech CSE (Cybersecurity)
-  college: Budge Budge Institute of Technology
-  university: MAKAUT
-
-currently_learning:
-  - Python
-  - Linux
-  - MySQL
-  - Backend Development
-  - DSA
-  - Networking
-
-interests:
-  - Software Development
-  - Cybersecurity
-  - Automation
-  - Cloud Computing
-  - Open Source
-
-currently_working_on:
-  - CampusPilot ERP
-  - Security Projects
-  - Python Utilities
-
-goal:
-  Become a Software Development Engineer &
-  Cybersecurity Professional.
-```
-
----
-
-# ⚡ At a Glance
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-👨 Name           :: Shubham Srivastava
-
-🎓 Degree         :: B.Tech CSE (Cybersecurity)
-
-🏫 University     :: MAKAUT
-
-💻 Coding         :: Python • Java • C • C++
-
-🐧 Operating Sys  :: Linux
-
-🗄 Database       :: MySQL • SQLite
-
-🔐 Interests      :: Cybersecurity
-                    Backend Development
-                    Networking
-                    Automation
-
-🚀 Goal           :: Software Engineer
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-# 🔭 Currently Building & Learning
-
-```diff
-+ CampusPilot ERP
-
-+ Python Automation
-
-+ Linux Administration
-
-+ Backend Development
-
-+ REST APIs
-
-+ SQL Optimization
-
-+ Network Programming
-
-+ Ethical Hacking Basics
-
-+ Data Structures & Algorithms
-```
-
----
-
-# 🧰 Tech Arsenal
-
-## 💻 Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-</p>
-
----
-
-## 🗄 Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-
-</p>
-
----
-
-## ⚙ Operating Systems
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=ubuntu"/>
-
-<img src="https://skillicons.dev/icons?i=windows"/>
-
-</p>
-
----
-
-## 🛠 Development Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=bash"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-</p>
-
----
-
-## 🔐 Security Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=kali"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-</p>
-
-```text
-Additional Tools
-
-• Nmap
-
-• Wireshark
-
-• MySQL
-
-• SQLite
-
-• Shell Scripting
-```
-
----
-
-## ☕ Development Philosophy
-
-```text
-while(alive){
-
-    Learn();
-
-    Build();
-
-    Break();
-
-    Fix();
-
-    Repeat();
-
-}
-```
-
----
-
 <div align="center">
 
-### ⚡ "Security isn't about hacking systems. It's about understanding them."
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,35:0F172A,70:1D4ED8,100:38BDF8&text=Shubham%20Srivastava&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn"/>
+
+<h1>👋 Hello, I'm Shubham Srivastava</h1>
+
+<h3>
+Cybersecurity Student • Python Developer • Linux Enthusiast • Future Software Engineer
+</h3>
+
+<p>
+
+<a href="https://www.linkedin.com/in/shubham-srivastava-515730326/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:srivastavashubham680@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=shubhamsrivastava08&style=flat-square&color=0ea5e9"/>
+
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Secure+Software...;Learning+Something+New+Every+Day...;Python+%7C+Linux+%7C+Cybersecurity+%7C+Backend"/>
 
 </div>
+
+---
+
+## <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30"> About
+
+```text
+> whoami
+
+Hi, I'm Shubham Srivastava.
+
+A final-year Computer Science (Cybersecurity) student
+who enjoys building software, exploring Linux,
+and learning how secure systems are designed.
+
+I believe the best way to learn is by building projects,
+breaking things, fixing them, and improving every day.
+
+Current Focus
+─────────────
+• Secure Software Development
+• Python
+• Backend Development
+• Linux
+• Networking
+• Cybersecurity
+```
+
+---
+
+## 👨‍💻 Who I Am
+
+<table>
+
+<tr>
+
+<td width="55%">
+
+```yaml
+Name:
+  Shubham Srivastava
+
+Role:
+  Student Developer
+
+Education:
+  B.Tech CSE
+  Cybersecurity
+
+Location:
+  India
+
+Currently:
+  Final Year Student
+
+Looking For:
+  Software Development
+  Cybersecurity Internship
+
+```
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shubhamsrivastava08&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## ⚡ At A Glance
+
+| 🎯 | |
+|------|------------------------------|
+| 🎓 Degree | B.Tech CSE (Cybersecurity) |
+| 🏫 College | BBIT |
+| 🏛 University | MAKAUT |
+| 💻 Languages | Python • Java • C • C++ |
+| 🐧 OS | Linux |
+| 🗄 Database | MySQL • SQLite |
+| ❤️ Interests | Cybersecurity • Backend • Automation |
+
+---
+
+## 🔭 Currently Building
+
+```text
+📦 CampusPilot ERP
+
+├── Student Management
+├── Attendance System
+├── Marks Analytics
+├── PDF Reports
+├── Dashboard
+└── SQLite Database
+```
+
+```text
+📚 Currently Learning
+
+● Python Automation
+
+● REST APIs
+
+● Linux Administration
+
+● Computer Networking
+
+● Data Structures
+
+● MySQL Optimization
+```
