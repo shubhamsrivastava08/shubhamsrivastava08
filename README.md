@@ -1,91 +1,261 @@
-<!-- HEADER BANNER -->
+# <div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shubham%20Srivastava&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:2563EB,100:06B6D4&text=Shubham%20Srivastava&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Python+Developer;Linux+Enthusiast;Open+Source+Learner;Future+Security+Engineer"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 Final Year B.Tech CSE (Cyber Security)
+
+🏫 Budge Budge Institute of Technology, Kolkata
+
+💻 Passionate about Software Development & Cybersecurity
+
+🌱 Currently learning
+
+- Python
+- Linux
+- MySQL
+- Networking
+- Ethical Hacking
+- DSA
+
+🚀 Interested in
+
+- Cybersecurity
+- Python Development
+- Backend Development
+- Open Source
+
+⚡ Goal
+
+Become a Software Engineer & Cybersecurity Professional.
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 CampusPilot
+
+College ERP System
+
+⭐ Student Management
+
+⭐ Attendance
+
+⭐ Marks
+
+⭐ Report Cards
+
+⭐ SQLite Database
+
+⭐ Dashboard
+
+⭐ PDF Reports
+
+---
+
+## 🔐 Password Strength Checker
+
+Python Application
+
+✔ Password Analysis
+
+✔ Security Score
+
+✔ Suggestions
+
+---
+
+## 🌐 Network Scanner
+
+Python + Nmap
+
+✔ Host Discovery
+
+✔ Port Scanner
+
+✔ Service Detection
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Shubham Srivastava</h1>
+### Database
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Python+Learner;Linux+Enthusiast;Future+Security+Engineer"/>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash"/>
+</p>
+
+### Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=ps,ai"/>
 </p>
 
 ---
 
-# 💫 About Me
+# 📚 Currently Learning
 
-👋 Hi, I’m **Shubham Srivastava**
-🎓 B.Tech CSE (Cybersecurity) student at **BBIT, Kolkata**
-💻 Interested in **Cybersecurity and Programming**
-🌱 Currently learning **Python, Linux, Security Tools and MySQL**
-⚡ I enjoy building tech projects and learning new things
+✔ Python Automation
 
----
+✔ Linux Administration
 
-## 🌐 Socials
+✔ Cybersecurity
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://www.facebook.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://www.instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shubham-srivastava-515730326/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:srivastavashubham680@gmail.com)
+✔ Networking
+
+✔ DSA
+
+✔ MySQL
 
 ---
 
-# 💻 Tech Stack
+# 📜 Certifications
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge\&logo=powershell\&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge\&logo=adobe\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
+🏅 Infosys Springboard AI Internship
+
+🏅 Cybersecurity Analyst Job Simulation
+
+🏅 Python Programming
 
 ---
 
-## 💻 Coding Mode
+# 🌐 Connect With Me
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
+
+<a href="https://linkedin.com/in/shubham-srivastava-515730326">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:srivastavashubham680@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=shubhamsrivastava08\&theme=tokyonight\&hide_border=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=shubhamsrivastava08\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsrivastava08\&theme=tokyonight\&hide_border=true\&layout=compact)
-
----
-
-## 🏆 GitHub Trophy
-
-![](https://github-profile-trophy.vercel.app/?username=shubhamsrivastava08\&theme=radical\&no-frame=true\&margin-w=4)
-
----
-
-## 👀 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=shubhamsrivastava08\&icon=0\&color=6)
-
----
-
-## 🔐 Cybersecurity Quote
-
-> “Security is not a product, but a process.”
-> – Bruce Schneier
-
----
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhamsrivastava08&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsrivastava08&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=shubhamsrivastava08&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamsrivastava08&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shubhamsrivastava08&theme=algolia&no-frame=true&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/shubhamsrivastava08/shubhamsrivastava08/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+⭐ LeetCode
+
+⭐ HackerRank
+
+⭐ CodeChef
+
+⭐ GeeksforGeeks
+
+(Add your profile links here)
+
+---
+
+# ⚡ Fun Facts
+
+💙 I enjoy solving programming problems.
+
+🐧 Linux is my favorite operating system.
+
+🔐 Cybersecurity fascinates me.
+
+🚀 I love building useful projects.
+
+☕ Coffee + Code = Productivity.
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shubhamsrivastava08&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> "Security is not a product, it's a process."
+>
+> — Bruce Schneier
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,100:0F172A"/>
+
+</div>
