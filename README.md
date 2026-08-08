@@ -1,774 +1,442 @@
-<div align="center">
+<!-- ========================================================== -->
+<!--                  PREMIUM CYBER TERMINAL HERO               -->
+<!-- ========================================================== -->
 
-<img
-  src="./assets/shubham-cyber-profile.png"
-  alt="Shubham Srivastava Cybersecurity Profile"
-  width="100%"
-/>
+<table align="center" width="100%" style="border: 1px solid #00f0ff; border-radius: 8px; background-color: #0d1117; padding: 20px;">
+  <tr>
+    <td width="35%" align="center" style="border-right: 1px dashed #00f0ff; padding-right: 20px;">
+      <img src="assets/shubham-terminal-avatar.svg" width="100%" alt="Shubham Srivastava Terminal Avatar" style="border-radius: 6px;" />
+      <br><br>
+      <code>[root@shubham-grid ~]#</code>
+      <br>
+      <sub style="color: #00f0ff;">Security & Engineering</sub>
+    </td>
+    <td width="65%" style="padding-left: 20px; font-family: monospace; color: #c9d1d9;">
+      <h3 style="color: #00f0ff; margin-top: 0;">ShubhamSrivastav@Cyber-grid</h3>
+      <p style="font-size: 13px; line-height: 1.5; margin-bottom: 15px;">
+        <code>Subject ...............</code> Shubham Srivastava<br>
+        <code>Role ..................</code> Cybersecurity Student & Developer<br>
+        <code>Origin ................</code> India / Kolkata<br>
+        <code>Education .............</code> B.Tech CSE (Cybersecurity)<br>
+        <code>College ...............</code> BBIT (MAKAUT)<br>
+        <code>Status ................</code> Building • Learning • Shipping<br>
+        <code>Focus .................</code> Cybersecurity • Python • Linux
+      </p>
 
-</div>
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Cybersecurity+Student;Python+Developer;Linux+Enthusiast;Software+%26+Security+Learner;Building+Secure+%26+Practical+Projects"
-/>
-
-<br/>
-
-<a href="https://github.com/shubhamsrivastava08">
-  <img src="https://img.shields.io/badge/GitHub-shubhamsrivastava08-111827?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shubham-srivastava-515730326/">
-  <img src="https://img.shields.io/badge/LinkedIn-Shubham%20Srivastava-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:srivastavashubham680@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=shubhamsrivastava08&style=flat-square&color=00E5FF&label=PROFILE+VIEWS"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<h2>👋 About Me</h2>
-
-</div>
-
-<table>
-<tr>
-
-<td width="58%" valign="top">
-
-<h3>💻 About Me</h3>
-
-<p>
-I'm <b>Shubham Srivastava</b>, a final-year B.Tech Computer Science student
-specializing in <b>Cybersecurity</b>.
+<p style="color: #00f0ff; font-weight: bold; margin-bottom: 5px;">&lt; Tech.Core &gt;</p>
+<p style="font-size: 13px; line-height: 1.5; margin-bottom: 15px;">
+  <code>Languages .............</code> Python • Java • C • C++ • JavaScript<br>
+  <code>Databases .............</code> MySQL • SQLite<br>
+  <code>OS / Environment .....</code> Linux • Windows • Bash<br>
+  <code>Tools .................</code> Git • GitHub • VS Code • Postman<br>
+  <code>Security ..............</code> Nmap • Kali Linux • Networking
 </p>
 
-<p>
-I enjoy building practical software, exploring Linux and networking,
-and understanding how secure systems work from the inside out.
+<p style="color: #00f0ff; font-weight: bold; margin-bottom: 5px;">&lt; Currently.Building &gt;</p>
+<p style="font-size: 13px; line-height: 1.5; margin-bottom: 15px;">
+  <code>Primary ...............</code> CampusPilot ERP (Python/CustomTkinter)<br>
+  <code>Systems ...............</code> Priority Scheduling Sim • Anti-Theft App<br>
+  <code>Research ..............</code> SMB & Network Security Study
 </p>
 
-<p>
-My approach is simple:
-<b>Learn → Build → Break → Fix → Improve.</b>
+<p style="color: #00f0ff; font-weight: bold; margin-bottom: 5px;">&lt; Contact &gt;</p>
+<p style="font-size: 13px; line-height: 1.5; margin: 0;">
+  <code>Mail ..................</code> <a href="mailto:srivastavashubham680@gmail.com" style="color: #58a6ff; text-decoration: none;">srivastavashubham680@gmail.com</a><br>
+  <code>LinkedIn ..............</code> <a href="https://www.linkedin.com/in/shubham-srivastava-515730326/" style="color: #58a6ff; text-decoration: none;">shubham-srivastava</a><br>
+  <code>GitHub ................</code> <a href="https://github.com/shubhamsrivastava08" style="color: #58a6ff; text-decoration: none;">shubhamsrivastava08</a>
 </p>
-
-<p>
-I'm currently focused on strengthening my skills in
-<b>Python, Linux, Cybersecurity, Backend Development, MySQL,
-Networking and DSA.</b>
-</p>
-
-<p>
-🎯 My goal is to grow into a <b>Software Engineer / Security Engineer</b>
-who can build reliable and secure applications.
-</p>
-
-</td>
-
-<td width="42%" valign="top">
-
-<h3>🖥️ whoami</h3>
-
-```text
-┌──────────────────────────────────┐
-│        SHUBHAM@CYBER-GRID        │
-├──────────────────────────────────┤
-│                                  │
-│  Role      : Student Developer   │
-│  Focus     : Cybersecurity       │
-│  Degree    : B.Tech CSE          │
-│  Special.  : Cybersecurity       │
-│  College   : BBIT                │
-│  University: MAKAUT              │
-│  Location  : India               │
-│                                  │
-│  OS        : Linux               │
-│  Language  : Python              │
-│  Database  : MySQL / SQLite      │
-│                                  │
-│  Status    : Building & Learning │
-│                                  │
-└──────────────────────────────────┘
-<div align="center">
-
-<h2>⚡ At a Glance</h2>
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-<h3>🎓 Education</h3>
-
-<b>B.Tech CSE</b>
-
-Cybersecurity
-
-BBIT • MAKAUT
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>💻 Primary Stack</h3>
-
-<b>Python</b>
-
-Java • C++ • JavaScript
-
-MySQL • SQLite
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>🔐 Core Interest</h3>
-
-<b>Cybersecurity</b>
-
-Linux • Networking
-
-Secure Development
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>🚀 Current Goal</h3>
-
-<b>Software Engineer</b>
-
-Security Engineer
-
-Open to Opportunities
-
-</td>
-
-</tr>
+    </td>
+  </tr>
 </table>
 
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 What I Work With
-
-```text
-Programming
-├── Python
-├── Java
-├── C / C++
-└── JavaScript
-
-Databases
-├── MySQL
-└── SQLite
-
-Systems
-├── Linux
-├── Windows
-└── Bash
-
-Security
-├── Networking
-├── Nmap
-├── Linux Security
-└── Security Fundamentals
-<div align="center">
-
-<h2>🔭 Currently Building & Learning</h2>
-
-<p>
-  <i>Turning ideas into projects, and projects into experience.</i>
-</p>
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🚀 Currently Building</h3>
-
-<br>
-
-<b>🎓 CampusPilot ERP</b>
-
-College management system focused on making student,
-attendance, marks and reporting workflows easier to manage.
-
-```text
-CampusPilot
-│
-├── 👨‍🎓 Student Management
-├── 📅 Attendance
-├── 📊 Marks & Analytics
-├── 📚 Subject Management
-├── 🔐 Role-based Login
-├── 📄 PDF Reports
-└── 🗄️ SQLite Database
-
-01  Python
-    └─ Automation • OOP • Project Development
-
-02  Linux
-    └─ CLI • Administration • Shell
-
-03  Cybersecurity
-    └─ Networking • Security Fundamentals
-
-04  Backend
-    └─ APIs • Databases • Server-side Logic
-
-05  MySQL
-    └─ Queries • Database Design • Optimization
-
-06  DSA
-    └─ Problem Solving • Algorithms • Complexity
-<!-- ==================== TECH ARSENAL ==================== -->
-
-<div align="center">
-
-<h2>🧰 Tech Arsenal</h2>
-
-<p>
-  <i>Technologies, tools and systems I use to build, learn and experiment.</i>
-</p>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>💻 Programming</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
-</p>
-
-<p>
-<b>Python</b> • Automation • OOP • Scripting<br>
-<b>Java</b> • OOP • Application Development<br>
-<b>C / C++</b> • Programming • DSA<br>
-<b>JavaScript</b> • Web Fundamentals
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🗄️ Databases</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-<p>
-<b>MySQL</b> • SQL • Database Design<br>
-<b>SQLite</b> • Local Applications • Data Management
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🐧 Operating Systems</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
-</p>
-
-<p>
-<b>Linux</b> • CLI • System Administration<br>
-<b>Windows</b> • System Configuration<br>
-<b>Shell</b> • Command Line • Automation
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🔐 Cybersecurity</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=kali,linux" />
-</p>
-
-<p>
-<b>Networking</b> • TCP/IP • Network Fundamentals<br>
-<b>Nmap</b> • Network Discovery • Port Scanning<br>
-<b>Security</b> • Reconnaissance • Security Fundamentals<br>
-<b>Linux Security</b> • CLI • System Basics
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🛠️ Developer Tools</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-<p>
-<b>Git</b> • Version Control<br>
-<b>GitHub</b> • Repositories • Collaboration<br>
-<b>VS Code</b> • Development Environment<br>
-<b>Postman</b> • API Testing
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>⚙️ Concepts</h3>
-
-<p>
-<img src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/OOP-0EA5E9?style=for-the-badge&logoColor=white"/>
-</p>
-
-<p>
-<b>Data Structures & Algorithms</b><br>
-<b>Object-Oriented Programming</b><br>
-<b>Operating Systems</b><br>
-<b>Database Management</b><br>
-<b>Computer Networks</b>
-</p>
-
-</td>
-
-</tr>
+---
+
+<!-- ========================================================== -->
+<!--                 ABOUT ME & WHO I AM (TWO COLUMN)           -->
+<!-- ========================================================== -->
+
+<table align="center" width="100%" style="border: none; background: transparent;">
+  <tr>
+    <td width="50%" valign="top" style="padding-right: 15px;">
+      <h2 style="color: #00f0ff; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-top: 0;">👋 About Me</h2>
+      <p align="justify" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; line-height: 1.6; color: #c9d1d9;">
+        I am a final-year B.Tech Computer Science Engineering student specializing in <b>Cybersecurity</b> at Budge Budge Institute of Technology (BBIT), Kolkata, under MAKAUT. My work sits at the intersection of robust backend development and secure system design. 
+      </p>
+      <p align="justify" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; line-height: 1.6; color: #c9d1d9;">
+        I enjoy building practical desktop applications, simulating operating system scheduling algorithms, and analyzing network protocols. My core philosophy centers on writing clean code while keeping threat landscapes in mind.
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding-left: 15px;">
+      <h2 style="color: #00f0ff; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-top: 0;">🖥️ whoami</h2>
+      <table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 10px; font-family: monospace; font-size: 13px; color: #c9d1d9;">
+        <tr><td><b>Name:</b></td><td>Shubham Srivastava</td></tr>
+        <tr><td><b>Role:</b></td><td>Cybersecurity Student & Developer</td></tr>
+        <tr><td><b>Education:</b></td><td>B.Tech CSE (Cybersecurity)</td></tr>
+        <tr><td><b>College:</b></td><td>BBIT, Kolkata</td></tr>
+        <tr><td><b>University:</b></td><td>MAKAUT</td></tr>
+        <tr><td><b>Location:</b></td><td>Kolkata, India</td></tr>
+        <tr><td><b>Primary Lang:</b></td><td>Python</td></tr>
+        <tr><td><b>OS:</b></td><td>Linux / Windows</td></tr>
+        <tr><td><b>Goal:</b></td><td>Software / Security Engineer</td></tr>
+      </table>
+    </td>
+  </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-### ⚡ My Development Environment
-
-<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  CODE       →       BUILD       →       TEST         │
-│    ↑                                           ↓     │
-│    └────────────── LEARN ← FIX ← SECURE ──────┘     │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-<!-- ==================== FEATURED PROJECTS ==================== -->
-
-<div align="center">
-
-<h2>📌 Featured Projects</h2>
-
-<p>
-  <i>Projects where I turn concepts into working software.</i>
-</p>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🎓 CampusPilot</h3>
-
-<p>
-<b>College ERP / Management System</b>
-</p>
-
-<p>
-A desktop-based college management system designed to simplify
-student, attendance, subject, marks and reporting workflows.
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/CustomTkinter-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-
-</p>
-
-```text
-Core Modules
-├── 🔐 Role-based Login
-├── 👨‍🎓 Student Management
-├── 👨‍🏫 Faculty Management
-├── 📅 Attendance
-├── 📊 Marks & Analytics
-├── 📚 Subjects
-├── 📄 PDF Reports
-└── 🗄️ SQLite Database
-<!-- ==================== JOURNEY & HIGHLIGHTS ==================== -->
-
-<div align="center">
-
-<h2>🏆 Journey & Highlights</h2>
-
-<p>
-  <i>A journey of learning, building, experimenting and growing.</i>
-</p>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-
-<td width="18%" align="center">
-
-### 🎓
-**2023**
-
-</td>
-
-<td width="82%">
-
-### 🚀 Started the Journey
-
-Started my B.Tech journey in Computer Science and began building
-the foundation of programming and computer science.
-
-**Focus:** C • C++ • Programming Fundamentals
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="18%" align="center">
-
-### 💻
-**2024**
-
-</td>
-
-<td width="82%">
-
-### 🧠 Expanded Technical Skills
-
-Explored programming, databases, operating systems and
-core computer science concepts.
-
-**Focus:** Java • Python • SQL • DSA • Operating Systems • DBMS
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="18%" align="center">
-
-### 🔐
-**2025**
-
-</td>
-
-<td width="82%">
-
-### 🛡️ Entered Cybersecurity
-
-Started going deeper into Linux, networking and cybersecurity
-through hands-on learning and academic projects.
-
-**Focus:** Linux • Networking • Security Fundamentals • Python
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="18%" align="center">
-
-### 🚀
-**2026**
-
-</td>
-
-<td width="82%">
-
-### ⚙️ Building & Preparing
-
-Working on practical software projects while strengthening
-development and cybersecurity skills for the professional world.
-
-**Focus:** CampusPilot • Python • Backend • Linux • Cybersecurity • DSA
-
-</td>
-
-</tr>
-
+---
+
+<!-- ========================================================== -->
+<!--                         AT A GLANCE                        -->
+<!-- ========================================================== -->
+
+## ⚡ At a Glance
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+      <span style="font-size: 24px;">🎓</span>
+      <h4 style="color: #00f0ff; margin: 10px 0 5px 0;">Education</h4>
+      <p style="font-size: 12px; color: #8b949e; margin: 0;">B.Tech CSE (Cybersecurity)<br>BBIT, Kolkata</p>
+    </td>
+    <td align="center" width="25%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+      <span style="font-size: 24px;">🛡️</span>
+      <h4 style="color: #00f0ff; margin: 10px 0 5px 0;">Focus</h4>
+      <p style="font-size: 12px; color: #8b949e; margin: 0;">Cybersecurity, Systems,<br>Backend Development</p>
+    </td>
+    <td align="center" width="25%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+      <span style="font-size: 24px;">⚙️</span>
+      <h4 style="color: #00f0ff; margin: 10px 0 5px 0;">Primary Stack</h4>
+      <p style="font-size: 12px; color: #8b949e; margin: 0;">Python, C/C++, Java,<br>Linux & Bash</p>
+    </td>
+    <td align="center" width="25%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+      <span style="font-size: 24px;">🎯</span>
+      <h4 style="color: #00f0ff; margin: 10px 0 5px 0;">Objective</h4>
+      <p style="font-size: 12px; color: #8b949e; margin: 0;">Software / Security<br>Engineer Roles</p>
+    </td>
+  </tr>
 </table>
 
-<br>
+---
 
-<div align="center">
+<!-- ========================================================== -->
+<!--               CURRENTLY BUILDING & LEARNING                -->
+<!-- ========================================================== -->
 
-### ✨ Highlights
+## 🔭 Currently Building & Learning
 
-<table>
-<tr>
-
-<td align="center">
-
-🏅<br>
-<b>Infosys Springboard</b><br>
-AI Internship
-
-</td>
-
-<td align="center">
-
-🔐<br>
-<b>Cybersecurity</b><br>
-Job Simulation
-
-</td>
-
-<td align="center">
-
-🎓<br>
-<b>B.Tech</b><br>
-CSE • Cybersecurity
-
-</td>
-
-<td align="center">
-
-💻<br>
-<b>Projects</b><br>
-Practical Development
-
-</td>
-
-</tr>
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+      <h3 style="color: #00f0ff; margin-top: 0;">🔨 Currently Building</h3>
+      <ul style="font-size: 14px; color: #c9d1d9; line-height: 1.6; padding-left: 20px; margin-bottom: 0;">
+        <li><b>CampusPilot ERP:</b> Refining full-featured college management software with role-based login and SQLite.</li>
+        <li><b>Automation Scripts:</b> Developing Python utilities for system administration and workflow streamlining.</li>
+        <li><b>Security Tooling:</b> Expanding custom scripts for network mapping and vulnerability evaluation.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+      <h3 style="color: #00f0ff; margin-top: 0;">📚 Currently Learning</h3>
+      <ul style="font-size: 14px; color: #c9d1d9; line-height: 1.6; padding-left: 20px; margin-bottom: 0;">
+        <li>Advanced <b>Python Automation</b> & REST API design patterns.</li>
+        <li>Deep <b>Linux Administration</b>, hardening, and network socket programming.</li>
+        <li>Core <b>Data Structures & Algorithms (DSA)</b> for technical interviews.</li>
+        <li>Database indexing and management with <b>MySQL</b>.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-</div>
+---
 
-<br>
+<!-- ========================================================== -->
+<!--                       TECH ARSENAL                         -->
+<!-- ========================================================== -->
 
-<div align="center">
+## 🧰 Tech Arsenal
 
-```text
-LEARN
-  │
-  ▼
-BUILD
-  │
-  ▼
-EXPERIMENT
-  │
-  ▼
-FAIL
-  │
-  ▼
-DEBUG
-  │
-  ▼
-IMPROVE
-  │
-  ▼
-REPEAT
-<!-- ==================== CERTIFICATIONS & HIGHLIGHTS ==================== -->
+<table align="center" width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+  <tr>
+    <td width="20%" valign="top"><b>Programming</b></td>
+    <td width="80%">
+      <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js" alt="Programming Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top"><b>Databases</b></td>
+    <td width="80%">
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top"><b>Operating Systems</b></td>
+    <td width="80%">
+      <img src="https://skillicons.dev/icons?i=linux,windows,bash" alt="Operating Systems" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top"><b>Cybersecurity</b></td>
+    <td width="80%">
+      <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" /> 
+      <code>Nmap</code> &nbsp; <code>Networking</code> &nbsp; <code>Wireshark</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top"><b>Developer Tools</b></td>
+    <td width="80%">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Developer Tools" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top"><b>Core CS Concepts</b></td>
+    <td width="80%">
+      <code>DSA</code> &nbsp; <code>OOP</code> &nbsp; <code>Operating Systems</code> &nbsp; <code>DBMS</code> &nbsp; <code>Computer Networks</code>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+---
 
-<h2>📜 Certifications & Highlights</h2>
+<!-- ========================================================== -->
+<!--                     FEATURED PROJECTS                      -->
+<!-- ========================================================== -->
 
-<p>
-  <i>Milestones that reflect continuous learning and practical exposure.</i>
+## 📌 Featured Projects
+
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #00f0ff; border-radius: 6px; padding: 20px;">
+      <h3 style="color: #00f0ff; margin-top: 0;">🚀 CampusPilot <span style="font-size: 12px; color: #8b949e; font-weight: normal;">(Main Featured)</span></h3>
+      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.5;">
+        A comprehensive college enterprise resource planning (ERP) and management system designed for administrative efficiency.
+      </p>
+      <p style="font-size: 12px; color: #8b949e;">
+        <b>Tech Stack:</b> Python • CustomTkinter • SQLite • ReportLab
+      </p>
+      <p style="font-size: 12px; color: #c9d1d9;">
+        <b>Key Features:</b> Student/Faculty Management, Attendance Tracking, Marks Calculation, Dynamic Dashboards, Analytics, and automated PDF Report Card generation with Role-based Authentication.
+      </p>
+      <p style="margin-bottom: 0;">
+        <a href="YOUR_CAMPUSPILOT_REPO_URL"><img src="https://img.shields.io/badge/GitHub-Repository-00f0ff?style=flat-square&logo=github&logoColor=black" alt="CampusPilot Repo" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+      <h3 style="color: #00f0ff; margin-top: 0;">⚡ Priority Scheduling Simulator</h3>
+      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.5;">
+        An operating systems project simulating CPU scheduling algorithms to analyze process execution efficiency.
+      </p>
+      <p style="font-size: 12px; color: #8b949e;">
+        <b>Tech Stack:</b> C / C++ • Java • Python
+      </p>
+      <p style="font-size: 12px; color: #c9d1d9;">
+        <b>Key Features:</b> Preemptive & Non-preemptive Priority Scheduling, computation of Waiting Time and Turnaround Time, and visual execution flows.
+      </p>
+      <p style="margin-bottom: 0;">
+        <a href="YOUR_SCHEDULING_SIMULATOR_REPO_URL"><img src="https://img.shields.io/badge/GitHub-Repository-30363d?style=flat-square&logo=github&logoColor=white" alt="Scheduling Simulator Repo" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px; margin-top: 15px;">
+      <h3 style="color: #00f0ff; margin-top: 0;">🛡️ Anti-Theft Application</h3>
+      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.5;">
+        A system-security academic project centered around device theft protection protocols and local device auditing.
+      </p>
+      <p style="font-size: 12px; color: #8b949e;">
+        <b>Tech Stack:</b> Python • System APIs • Security Principles
+      </p>
+      <p style="font-size: 12px; color: #c9d1d9;">
+        <b>Key Features:</b> Intrusion trigger detection, unauthorized access logging, and alert notification mechanisms.
+      </p>
+      <p style="margin-bottom: 0;">
+        <a href="YOUR_ANTITHEFT_REPO_URL"><img src="https://img.shields.io/badge/GitHub-Repository-30363d?style=flat-square&logo=github&logoColor=white" alt="Anti-Theft Repo" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px; margin-top: 15px;">
+      <h3 style="color: #00f0ff; margin-top: 0;">🔍 SMB & Network Security Study</h3>
+      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.5;">
+        A cybersecurity analysis project exploring Server Message Block (SMB) protocols and corresponding network defense strategies.
+      </p>
+      <p style="font-size: 12px; color: #8b949e;">
+        <b>Tech Stack:</b> Linux • Wireshark • Nmap • Bash
+      </p>
+      <p style="font-size: 12px; color: #c9d1d9;">
+        <b>Key Features:</b> Protocol traffic auditing, vulnerability assessment, and hardening recommendations in simulated environments.
+      </p>
+      <p style="margin-bottom: 0;">
+        <a href="YOUR_NETWORK_STUDY_REPO_URL"><img src="https://img.shields.io/badge/GitHub-Repository-30363d?style=flat-square&logo=github&logoColor=white" alt="Network Study Repo" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ========================================================== -->
+<!--                  JOURNEY & HIGHLIGHTS                      -->
+<!-- ========================================================== -->
+
+## 🏆 Journey & Highlights
+
+<table align="center" width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px; font-size: 14px; color: #c9d1d9;">
+  <tr>
+    <td width="15%" align="center" style="border-right: 1px solid #30363d; color: #00f0ff; font-weight: bold;">2023</td>
+    <td width="85%" style="padding-left: 15px;">Started B.Tech CSE (Cybersecurity) at BBIT; established strong fundamentals in programming logic and computer architecture.</td>
+  </tr>
+  <tr>
+    <td align="center" style="border-right: 1px solid #30363d; border-top: 1px solid #30363d; color: #00f0ff; font-weight: bold; padding-top: 10px;">2024</td>
+    <td style="padding-left: 15px; border-top: 1px solid #30363d; padding-top: 10px;">Deepened expertise in object-oriented programming, relational databases (MySQL/SQLite), and core data structures.</td>
+  </tr>
+  <tr>
+    <td align="center" style="border-right: 1px solid #30363d; border-top: 1px solid #30363d; color: #00f0ff; font-weight: bold; padding-top: 10px;">2025</td>
+    <td style="padding-left: 15px; border-top: 1px solid #30363d; padding-top: 10px;">Mastered Linux administration, networking fundamentals, and security tooling while developing robust academic projects.</td>
+  </tr>
+  <tr>
+    <td align="center" style="border-right: 1px solid #30363d; border-top: 1px solid #30363d; color: #00f0ff; font-weight: bold; padding-top: 10px;">2026</td>
+    <td style="padding-left: 15px; border-top: 1px solid #30363d; padding-top: 10px;">Executing major software projects like CampusPilot ERP, completing industry simulations, and preparing for software/security engineering roles.</td>
+  </tr>
+</table>
+
+---
+
+<!-- ========================================================== -->
+<!--                       CERTIFICATIONS                       -->
+<!-- ========================================================== -->
+
+## 📜 Certifications & Experience
+
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+      <h3 style="color: #00f0ff; margin-top: 0;">🤖 Infosys Springboard AI Internship</h3>
+      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.5;">
+        Completed structured professional training and practical application development focusing on AI concepts, workflow integration, and software engineering standards.
+      </p>
+      <p style="font-size: 12px; color: #8b949e; margin-bottom: 0;">
+        <b>Issuer:</b> Infosys Springboard &nbsp;|&nbsp; <b>Domain:</b> Artificial Intelligence / Software Development
+      </p>
+    </td>
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+      <h3 style="color: #00f0ff; margin-top: 0;">🔒 Cybersecurity Analyst Job Simulation</h3>
+      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.5;">
+        Executed practical security evaluation tasks, analyzed simulated threat logs, and reviewed incident response protocols.
+      </p>
+      <p style="font-size: 12px; color: #8b949e; margin-bottom: 0;">
+        <b>Focus:</b> Threat Analysis • Security Auditing • Incident Mitigation
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ========================================================== -->
+<!--                 CODING / DEVELOPER PROFILES                -->
+<!-- ========================================================== -->
+
+## 💻 Coding & Developer Profiles
+
+<p align="center">
+  <a href="https://github.com/shubhamsrivastava08"><img src="https://img.shields.io/badge/GitHub-shubhamsrivastava08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shubham-srivastava-515730326/"><img src="https://img.shields.io/badge/LinkedIn-Shubham_Srivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:srivastavashubham680@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+<p align="center">
+  <!-- Optional Placeholders for competitive programming / coding profiles -->
+  <a href="YOUR_LEETCODE_PROFILE"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  &nbsp;
+  <a href="YOUR_HACKERRANK_PROFILE"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  &nbsp;
+  <a href="YOUR_GEEKSFORGEEKS_PROFILE"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
 
-</div>
+---
 
-<br>
+<!-- ========================================================== -->
+<!--                     GITHUB METRICS & STATS                 -->
+<!-- ========================================================== -->
 
-<table>
-<tr>
+## 📊 GitHub Metrics & Stats
 
-<td width="50%" valign="top">
-
-<h3>🏅 Certifications & Experience</h3>
-
-<br>
-
-<h4>🤖 Infosys Springboard</h4>
-
-<p>
-<b>AI Internship</b>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamsrivastava08&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsrivastava08&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" alt="Top Languages" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamsrivastava08&theme=radical&hide_border=true&background=0d1117&sideLabels=true" alt="GitHub Streak" />
 </p>
 
-<p>
-Practical exposure to Artificial Intelligence concepts,
-learning resources and project-oriented development.
+---
+
+<!-- ========================================================== -->
+<!--                GITHUB ACHIEVEMENTS & TROPHIES              -->
+<!-- ========================================================== -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhamsrivastava08&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square"/>
+---
+
+<!-- ========================================================== -->
+<!--                     CONTRIBUTION SNAKE                     -->
+<!-- ========================================================== -->
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamsrivastava08/shubhamsrivastava08/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamsrivastava08/shubhamsrivastava08/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubhamsrivastava08/shubhamsrivastava08/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
-<hr>
+---
 
-<h4>🔐 Cybersecurity Analyst</h4>
+<!-- ========================================================== -->
+<!--                        LET'S CONNECT                       -->
+<!-- ========================================================== -->
 
-<p>
-<b>Job Simulation</b>
+## 🤝 Let's Connect
+
+<table align="center" style="border: none; background: transparent;">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/shubham-srivastava-515730326/">
+        <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:srivastavashubham680@gmail.com">
+        <img src="https://img.shields.io/badge/Drop_an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shubhamsrivastava08">
+        <img src="https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ========================================================== -->
+<!--                        PREMIUM FOOTER                      -->
+<!-- ========================================================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f0ff&height=60&section=footer&reversal=true" width="100%" alt="Footer Wave" />
 </p>
-
-<p>
-Hands-on exposure to cybersecurity analyst workflows,
-security concepts and practical problem solving.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square"/>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🚀 Highlights</h3>
-
-<br>
-
-```text
-┌─────────────────────────────────────┐
-│                                     │
-│  🎓  B.Tech CSE                     │
-│      Cybersecurity                  │
-│                                     │
-│  🤖  AI Internship                  │
-│      Infosys Springboard            │
-│                                     │
-│  🔐  Cybersecurity Analyst          │
-│      Job Simulation                 │
-│                                     │
-│  💻  Practical Projects             │
-│      Software + Security            │
-│                                     │
-│  🐧  Linux & Networking             │
-│      Hands-on Learning              │
-│                                     │
-└─────────────────────────────────────┘
-<!-- ==================== GITHUB METRICS ==================== -->
 
 <div align="center">
-
-<h2>📊 GitHub Metrics & Stats</h2>
-
-<p>
-  <i>A live snapshot of my development activity.</i>
-</p>
-
+  <code style="color: #00f0ff;">[root@shubham-grid ~]# shutdown -h now</code>
+  <p style="font-size: 13px; color: #8b949e; margin-top: 5px;">
+    <b>Build. Secure. Learn. Repeat.</b> • Designed with precision by Shubham Srivastava © 2026
+  </p>
 </div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=shubhamsrivastava08&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0B1020&title_color=38BDF8&icon_color=00E5FF&text_color=CBD5E1"
-  width="49%"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsrivastava08&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0B1020&title_color=38BDF8&text_color=CBD5E1"
-  width="49%"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=shubhamsrivastava08&theme=tokyonight&hide_border=true&background=0B1020&ring=38BDF8&fire=00E5FF&currStreakLabel=38BDF8"
-  width="70%"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 📈 Contribution Activity
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamsrivastava08&bg_color=0B1020&color=CBD5E1&line=38BDF8&point=00E5FF&area=true&hide_border=true"
-  width="100%"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🏆 GitHub Achievements
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=shubhamsrivastava08&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
-  width="100%"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GitHub-Active%20Development-0B1020?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Code-Learn%20%7C%20Build%20%7C%20Improve-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-
-</div>
-
-<br>
