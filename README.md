@@ -2,18 +2,28 @@
 <!--                  PREMIUM CYBER TERMINAL HERO               -->
 <!-- ========================================================== -->
 
-<table align="center" width="100%" style="border: 1px solid #00f0ff; border-radius: 8px; background-color: #0d1117; padding: 20px;">
+<table align="center" width="100%" style="border: 1px solid #00f0ff; border-radius: 8px; background-color: #0d1117; padding: 20px; font-family: monospace;">
   <tr>
-    <td width="35%" align="center" style="border-right: 1px dashed #00f0ff; padding-right: 20px;">
-      <img src="assets/shubham-terminal-avatar.svg" width="100%" alt="Shubham Srivastava Terminal Avatar" style="border-radius: 6px;" />
-      <br><br>
-      <code>[root@shubham-grid ~]#</code>
-      <br>
-      <sub style="color: #00f0ff;">Security & Engineering</sub>
+    <td width="38%" align="center" style="border-right: 1px dashed #00f0ff; padding-right: 20px; vertical-align: middle;">
+      <!-- TERMINAL WINDOW FRAME WITH GLOW -->
+      <div style="background-color: #161b22; border-radius: 6px; border: 1px solid #00f0ff; padding-bottom: 15px; box-shadow: 0 0 20px rgba(0, 240, 255, 0.25);">
+        <!-- Terminal Top Bar -->
+        <div style="background-color: #21262d; height: 26px; border-top-left-radius: 6px; border-top-right-radius: 6px; display: flex; align-items: center; padding-left: 10px; border-bottom: 1px solid #30363d;">
+          <div style="width: 10px; height: 10px; background-color: #ff5f56; border-radius: 50%; display: inline-block; margin-right: 6px;"></div>
+          <div style="width: 10px; height: 10px; background-color: #ffbd2e; border-radius: 50%; display: inline-block; margin-right: 6px;"></div>
+          <div style="width: 10px; height: 10px; background-color: #27c93f; border-radius: 50%; display: inline-block;"></div>
+          <span style="color: #8b949e; font-size: 10px; margin-left: 55px;">shubham@cyber-grid:~</span>
+        </div>
+        <!-- Profile Avatar (PASTE PHOTO LINK HERE) -->
+        <img src="[PASTE_YOUR_CIRCULAR_PHOTO_LINK_HERE]" width="140px" alt="Shubham Srivastava" style="border-radius: 50%; margin-top: 20px; border: 2px solid #00f0ff; box-shadow: 0 0 15px #00f0ff;" />
+        <br>
+        <code style="color: #00f0ff; font-size: 13px; display: block; margin-top: 12px; font-weight: bold;">SHUBHAM SRIVASTAVA</code>
+        <sub style="color: #58a6ff; font-size: 11px;">CyberSec Engineer | Developer</sub>
+      </div>
     </td>
-    <td width="65%" style="padding-left: 20px; font-family: monospace; color: #c9d1d9;">
-      <h3 style="color: #00f0ff; margin-top: 0;">ShubhamSrivastav@Cyber-grid</h3>
-      <p style="font-size: 13px; line-height: 1.5; margin-bottom: 15px;">
+    <td width="62%" style="padding-left: 25px; color: #c9d1d9; vertical-align: top; font-size: 13px;">
+      <h3 style="color: #00f0ff; margin-top: 0; font-size: 17px;">ShubhamSrivastav@Cyber-grid</h3>
+      <p style="line-height: 1.5; margin-bottom: 12px;">
         <code>Subject ...............</code> Shubham Srivastava<br>
         <code>Role ..................</code> Cybersecurity Student & Developer<br>
         <code>Origin ................</code> India / Kolkata<br>
@@ -23,8 +33,8 @@
         <code>Focus .................</code> Cybersecurity • Python • Linux
       </p>
 
-<p style="color: #00f0ff; font-weight: bold; margin-bottom: 5px;">&lt; Tech.Core &gt;</p>
-<p style="font-size: 13px; line-height: 1.5; margin-bottom: 15px;">
+<p style="color: #00f0ff; font-weight: bold; margin-bottom: 4px;">&lt; Tech.Core &gt;</p>
+<p style="line-height: 1.5; margin-bottom: 12px;">
   <code>Languages .............</code> Python • Java • C • C++ • JavaScript<br>
   <code>Databases .............</code> MySQL • SQLite<br>
   <code>OS / Environment .....</code> Linux • Windows • Bash<br>
@@ -32,15 +42,8 @@
   <code>Security ..............</code> Nmap • Kali Linux • Networking
 </p>
 
-<p style="color: #00f0ff; font-weight: bold; margin-bottom: 5px;">&lt; Currently.Building &gt;</p>
-<p style="font-size: 13px; line-height: 1.5; margin-bottom: 15px;">
-  <code>Primary ...............</code> CampusPilot ERP (Python/CustomTkinter)<br>
-  <code>Systems ...............</code> Priority Scheduling Sim • Anti-Theft App<br>
-  <code>Research ..............</code> SMB & Network Security Study
-</p>
-
-<p style="color: #00f0ff; font-weight: bold; margin-bottom: 5px;">&lt; Contact &gt;</p>
-<p style="font-size: 13px; line-height: 1.5; margin: 0;">
+<p style="color: #00f0ff; font-weight: bold; margin-bottom: 4px;">&lt; Contact &gt;</p>
+<p style="margin: 0; line-height: 1.5;">
   <code>Mail ..................</code> <a href="mailto:srivastavashubham680@gmail.com" style="color: #58a6ff; text-decoration: none;">srivastavashubham680@gmail.com</a><br>
   <code>LinkedIn ..............</code> <a href="https://www.linkedin.com/in/shubham-srivastava-515730326/" style="color: #58a6ff; text-decoration: none;">shubham-srivastava</a><br>
   <code>GitHub ................</code> <a href="https://github.com/shubhamsrivastava08" style="color: #58a6ff; text-decoration: none;">shubhamsrivastava08</a>
@@ -55,29 +58,28 @@
 <!--                 ABOUT ME & WHO I AM (TWO COLUMN)           -->
 <!-- ========================================================== -->
 
-<table align="center" width="100%" style="border: none; background: transparent;">
+<table align="center" width="100%" style="border: none; background: transparent; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
   <tr>
-    <td width="50%" valign="top" style="padding-right: 15px;">
-      <h2 style="color: #00f0ff; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-top: 0;">👋 About Me</h2>
-      <p align="justify" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; line-height: 1.6; color: #c9d1d9;">
-        I am a final-year B.Tech Computer Science Engineering student specializing in <b>Cybersecurity</b> at Budge Budge Institute of Technology (BBIT), Kolkata, under MAKAUT. My work sits at the intersection of robust backend development and secure system design. 
+    <td width="50%" valign="top" style="padding-right: 20px;">
+      <h2 style="color: #00f0ff; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 0; font-size: 20px;">👋 About Me</h2>
+      <p align="justify" style="font-size: 14px; line-height: 1.7; color: #c9d1d9;">
+        I am a final-year B.Tech Computer Science Engineering student specializing in <b>Cybersecurity</b> at Budge Budge Institute of Technology (BBIT), Kolkata. My passion lies at the intersection of robust software development and secure system architecture.
       </p>
-      <p align="justify" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; line-height: 1.6; color: #c9d1d9;">
-        I enjoy building practical desktop applications, simulating operating system scheduling algorithms, and analyzing network protocols. My core philosophy centers on writing clean code while keeping threat landscapes in mind.
+      <p align="justify" style="font-size: 14px; line-height: 1.7; color: #c9d1d9;">
+        I enjoy building practical full-stack applications, simulating low-level operating system processes, and analyzing network security. My objective is to build safe, scalable, and efficient digital solutions as a Software or Security Engineer.
       </p>
     </td>
-    <td width="50%" valign="top" style="padding-left: 15px;">
-      <h2 style="color: #00f0ff; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-top: 0;">🖥️ whoami</h2>
+    <td width="50%" valign="top" style="padding-left: 20px;">
+      <h2 style="color: #00f0ff; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 0; font-size: 20px;">🖥️ whoami</h2>
       <table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 10px; font-family: monospace; font-size: 13px; color: #c9d1d9;">
-        <tr><td><b>Name:</b></td><td>Shubham Srivastava</td></tr>
-        <tr><td><b>Role:</b></td><td>Cybersecurity Student & Developer</td></tr>
-        <tr><td><b>Education:</b></td><td>B.Tech CSE (Cybersecurity)</td></tr>
-        <tr><td><b>College:</b></td><td>BBIT, Kolkata</td></tr>
-        <tr><td><b>University:</b></td><td>MAKAUT</td></tr>
-        <tr><td><b>Location:</b></td><td>Kolkata, India</td></tr>
-        <tr><td><b>Primary Lang:</b></td><td>Python</td></tr>
-        <tr><td><b>OS:</b></td><td>Linux / Windows</td></tr>
-        <tr><td><b>Goal:</b></td><td>Software / Security Engineer</td></tr>
+        <tr><td style="padding: 4px 0;"><b>Name:</b></td><td style="padding: 4px 0;">Shubham Srivastava</td></tr>
+        <tr><td style="padding: 4px 0;"><b>Role:</b></td><td style="padding: 4px 0;">CyberSec Student / Developer</td></tr>
+        <tr><td style="padding: 4px 0;"><b>Education:</b></td><td style="padding: 4px 0;">B.Tech CSE (Cybersecurity)</td></tr>
+        <tr><td style="padding: 4px 0;"><b>College:</b></td><td style="padding: 4px 0;">BBIT, Kolkata</td></tr>
+        <tr><td style="padding: 4px 0;"><b>Location:</b></td><td style="padding: 4px 0;">India / Kolkata</td></tr>
+        <tr><td style="padding: 4px 0;"><b>Primary Lang:</b></td><td style="padding: 4px 0;">Python</td></tr>
+        <tr><td style="padding: 4px 0;"><b>Focus:</b></td><td style="padding: 4px 0;">Cybersecurity • Systems</td></tr>
+        <tr><td style="padding: 4px 0;"><b>Career Goal:</b></td><td style="padding: 4px 0;">Software / Security Engineer</td></tr>
       </table>
     </td>
   </tr>
@@ -91,27 +93,27 @@
 
 ## ⚡ At a Glance
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="border-collapse: separate; border-spacing: 10px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
   <tr>
-    <td align="center" width="25%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-      <span style="font-size: 24px;">🎓</span>
-      <h4 style="color: #00f0ff; margin: 10px 0 5px 0;">Education</h4>
-      <p style="font-size: 12px; color: #8b949e; margin: 0;">B.Tech CSE (Cybersecurity)<br>BBIT, Kolkata</p>
+    <td align="center" width="25%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+      <span style="font-size: 28px;">🎓</span>
+      <h4 style="color: #00f0ff; margin: 12px 0 6px 0; font-size: 15px;">Education</h4>
+      <p style="font-size: 12px; color: #8b949e; margin: 0; line-height: 1.4;">B.Tech CSE (Cybersecurity)<br>BBIT, Kolkata</p>
     </td>
-    <td align="center" width="25%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-      <span style="font-size: 24px;">🛡️</span>
-      <h4 style="color: #00f0ff; margin: 10px 0 5px 0;">Focus</h4>
-      <p style="font-size: 12px; color: #8b949e; margin: 0;">Cybersecurity, Systems,<br>Backend Development</p>
+    <td align="center" width="25%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+      <span style="font-size: 28px;">🛡️</span>
+      <h4 style="color: #00f0ff; margin: 12px 0 6px 0; font-size: 15px;">Focus</h4>
+      <p style="font-size: 12px; color: #8b949e; margin: 0; line-height: 1.4;">Cybersecurity, Systems,<br>Backend Development</p>
     </td>
-    <td align="center" width="25%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-      <span style="font-size: 24px;">⚙️</span>
-      <h4 style="color: #00f0ff; margin: 10px 0 5px 0;">Primary Stack</h4>
-      <p style="font-size: 12px; color: #8b949e; margin: 0;">Python, C/C++, Java,<br>Linux & Bash</p>
+    <td align="center" width="25%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+      <span style="font-size: 28px;">⚙️</span>
+      <h4 style="color: #00f0ff; margin: 12px 0 6px 0; font-size: 15px;">Primary Stack</h4>
+      <p style="font-size: 12px; color: #8b949e; margin: 0; line-height: 1.4;">Python, C/C++, Java,<br>Linux & Bash</p>
     </td>
-    <td align="center" width="25%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-      <span style="font-size: 24px;">🎯</span>
-      <h4 style="color: #00f0ff; margin: 10px 0 5px 0;">Objective</h4>
-      <p style="font-size: 12px; color: #8b949e; margin: 0;">Software / Security<br>Engineer Roles</p>
+    <td align="center" width="25%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px;">
+      <span style="font-size: 28px;">🎯</span>
+      <h4 style="color: #00f0ff; margin: 12px 0 6px 0; font-size: 15px;">Objective</h4>
+      <p style="font-size: 12px; color: #8b949e; margin: 0; line-height: 1.4;">Software / Security<br>Engineering Roles</p>
     </td>
   </tr>
 </table>
@@ -124,23 +126,23 @@
 
 ## 🔭 Currently Building & Learning
 
-<table align="center" width="100%" style="border: none;">
+<table align="center" width="100%" style="border: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
   <tr>
-    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-      <h3 style="color: #00f0ff; margin-top: 0;">🔨 Currently Building</h3>
-      <ul style="font-size: 14px; color: #c9d1d9; line-height: 1.6; padding-left: 20px; margin-bottom: 0;">
-        <li><b>CampusPilot ERP:</b> Refining full-featured college management software with role-based login and SQLite.</li>
-        <li><b>Automation Scripts:</b> Developing Python utilities for system administration and workflow streamlining.</li>
-        <li><b>Security Tooling:</b> Expanding custom scripts for network mapping and vulnerability evaluation.</li>
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 22px;">
+      <h3 style="color: #00f0ff; margin-top: 0; font-size: 17px;">🔨 Currently Building</h3>
+      <ul style="font-size: 14px; color: #c9d1d9; line-height: 1.8; padding-left: 20px; margin-bottom: 0;">
+        <li><b>CampusPilot ERP:</b> Refining a full-featured college management system using Python (CustomTkinter) & SQLite.</li>
+        <li><b>Automation Toolkit:</b> Developing Python scripts for system administration and network auditing workflows.</li>
+        <li><b>Security Scripts:</b> Creating custom proof-of-concept tools for security concept evaluations.</li>
       </ul>
     </td>
-    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-      <h3 style="color: #00f0ff; margin-top: 0;">📚 Currently Learning</h3>
-      <ul style="font-size: 14px; color: #c9d1d9; line-height: 1.6; padding-left: 20px; margin-bottom: 0;">
-        <li>Advanced <b>Python Automation</b> & REST API design patterns.</li>
-        <li>Deep <b>Linux Administration</b>, hardening, and network socket programming.</li>
-        <li>Core <b>Data Structures & Algorithms (DSA)</b> for technical interviews.</li>
-        <li>Database indexing and management with <b>MySQL</b>.</li>
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 22px;">
+      <h3 style="color: #00f0ff; margin-top: 0; font-size: 17px;">📚 Currently Learning</h3>
+      <ul style="font-size: 14px; color: #c9d1d9; line-height: 1.8; padding-left: 20px; margin-bottom: 0;">
+        <li>Advanced <b>Python Automation</b> & REST API Architecture.</li>
+        <li>Deep <b>Linux Administration</b>, system hardening, and Bash.</li>
+        <li>Comprehensive <b>Data Structures & Algorithms (DSA)</b>.</li>
+        <li>Database optimization patterns with <b>MySQL</b>.</li>
       </ul>
     </td>
   </tr>
@@ -154,41 +156,40 @@
 
 ## 🧰 Tech Arsenal
 
-<table align="center" width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+<table align="center" width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
   <tr>
-    <td width="20%" valign="top"><b>Programming</b></td>
-    <td width="80%">
+    <td width="22%" valign="top" style="color: #00f0ff; font-weight: bold;">Programming</td>
+    <td width="78%">
       <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js" alt="Programming Languages" />
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top"><b>Databases</b></td>
-    <td width="80%">
+    <td width="22%" valign="top" style="color: #00f0ff; font-weight: bold;">Databases</td>
+    <td width="78%">
       <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases" />
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top"><b>Operating Systems</b></td>
-    <td width="80%">
+    <td width="22%" valign="top" style="color: #00f0ff; font-weight: bold;">Operating Systems</td>
+    <td width="78%">
       <img src="https://skillicons.dev/icons?i=linux,windows,bash" alt="Operating Systems" />
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top"><b>Cybersecurity</b></td>
-    <td width="80%">
-      <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" /> 
-      <code>Nmap</code> &nbsp; <code>Networking</code> &nbsp; <code>Wireshark</code>
+    <td width="22%" valign="top" style="color: #00f0ff; font-weight: bold;">Cybersecurity</td>
+    <td width="78%">
+      <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" /> &nbsp; <code>Nmap</code> &nbsp; <code>Networking</code> &nbsp; <code>Wireshark</code>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top"><b>Developer Tools</b></td>
-    <td width="80%">
+    <td width="22%" valign="top" style="color: #00f0ff; font-weight: bold;">Developer Tools</td>
+    <td width="78%">
       <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Developer Tools" />
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top"><b>Core CS Concepts</b></td>
-    <td width="80%">
+    <td width="22%" valign="top" style="color: #00f0ff; font-weight: bold;">Core CS Concepts</td>
+    <td width="78%">
       <code>DSA</code> &nbsp; <code>OOP</code> &nbsp; <code>Operating Systems</code> &nbsp; <code>DBMS</code> &nbsp; <code>Computer Networks</code>
     </td>
   </tr>
@@ -202,33 +203,33 @@
 
 ## 📌 Featured Projects
 
-<table align="center" width="100%" style="border: none;">
+<table align="center" width="100%" style="border: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
   <tr>
-    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #00f0ff; border-radius: 6px; padding: 20px;">
-      <h3 style="color: #00f0ff; margin-top: 0;">🚀 CampusPilot <span style="font-size: 12px; color: #8b949e; font-weight: normal;">(Main Featured)</span></h3>
-      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.5;">
-        A comprehensive college enterprise resource planning (ERP) and management system designed for administrative efficiency.
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #00f0ff; border-radius: 8px; padding: 22px;">
+      <h3 style="color: #00f0ff; margin-top: 0; font-size: 17px;">🚀 CampusPilot <span style="font-size: 11px; color: #8b949e; font-weight: normal;">(Main Featured)</span></h3>
+      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.6;">
+        A comprehensive college enterprise resource planning (ERP) and management system designed for academic and administrative efficiency.
       </p>
-      <p style="font-size: 12px; color: #8b949e;">
+      <p style="font-size: 12px; color: #8b949e; margin-bottom: 8px;">
         <b>Tech Stack:</b> Python • CustomTkinter • SQLite • ReportLab
       </p>
-      <p style="font-size: 12px; color: #c9d1d9;">
+      <p style="font-size: 12px; color: #c9d1d9; line-height: 1.5; margin-bottom: 12px;">
         <b>Key Features:</b> Student/Faculty Management, Attendance Tracking, Marks Calculation, Dynamic Dashboards, Analytics, and automated PDF Report Card generation with Role-based Authentication.
       </p>
       <p style="margin-bottom: 0;">
         <a href="YOUR_CAMPUSPILOT_REPO_URL"><img src="https://img.shields.io/badge/GitHub-Repository-00f0ff?style=flat-square&logo=github&logoColor=black" alt="CampusPilot Repo" /></a>
       </p>
     </td>
-    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-      <h3 style="color: #00f0ff; margin-top: 0;">⚡ Priority Scheduling Simulator</h3>
-      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.5;">
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 22px;">
+      <h3 style="color: #00f0ff; margin-top: 0; font-size: 17px;">⚡ Priority Scheduling Simulator</h3>
+      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.6;">
         An operating systems project simulating CPU scheduling algorithms to analyze process execution efficiency.
       </p>
-      <p style="font-size: 12px; color: #8b949e;">
+      <p style="font-size: 12px; color: #8b949e; margin-bottom: 8px;">
         <b>Tech Stack:</b> C / C++ • Java • Python
       </p>
-      <p style="font-size: 12px; color: #c9d1d9;">
-        <b>Key Features:</b> Preemptive & Non-preemptive Priority Scheduling, computation of Waiting Time and Turnaround Time, and visual execution flows.
+      <p style="font-size: 12px; color: #c9d1d9; line-height: 1.5; margin-bottom: 12px;">
+        <b>Key Features:</b> Preemptive & Non-preemptive Priority Scheduling, calculation of Waiting Time and Turnaround Time, and execution flow visuals.
       </p>
       <p style="margin-bottom: 0;">
         <a href="YOUR_SCHEDULING_SIMULATOR_REPO_URL"><img src="https://img.shields.io/badge/GitHub-Repository-30363d?style=flat-square&logo=github&logoColor=white" alt="Scheduling Simulator Repo" /></a>
@@ -236,31 +237,31 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px; margin-top: 15px;">
-      <h3 style="color: #00f0ff; margin-top: 0;">🛡️ Anti-Theft Application</h3>
-      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.5;">
-        A system-security academic project centered around device theft protection protocols and local device auditing.
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 22px; margin-top: 15px;">
+      <h3 style="color: #00f0ff; margin-top: 0; font-size: 17px;">🛡️ Anti-Theft Application</h3>
+      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.6;">
+        A system-security academic project centered around device theft protection protocols and local device security auditing.
       </p>
-      <p style="font-size: 12px; color: #8b949e;">
+      <p style="font-size: 12px; color: #8b949e; margin-bottom: 8px;">
         <b>Tech Stack:</b> Python • System APIs • Security Principles
       </p>
-      <p style="font-size: 12px; color: #c9d1d9;">
-        <b>Key Features:</b> Intrusion trigger detection, unauthorized access logging, and alert notification mechanisms.
+      <p style="font-size: 12px; color: #c9d1d9; line-height: 1.5; margin-bottom: 12px;">
+        <b>Key Features:</b> Intrusion trigger detection, unauthorized access activity logging, and alert notification mechanisms.
       </p>
       <p style="margin-bottom: 0;">
         <a href="YOUR_ANTITHEFT_REPO_URL"><img src="https://img.shields.io/badge/GitHub-Repository-30363d?style=flat-square&logo=github&logoColor=white" alt="Anti-Theft Repo" /></a>
       </p>
     </td>
-    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px; margin-top: 15px;">
-      <h3 style="color: #00f0ff; margin-top: 0;">🔍 SMB & Network Security Study</h3>
-      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.5;">
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 22px; margin-top: 15px;">
+      <h3 style="color: #00f0ff; margin-top: 0; font-size: 17px;">🔍 SMB & Network Security Study</h3>
+      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.6;">
         A cybersecurity analysis project exploring Server Message Block (SMB) protocols and corresponding network defense strategies.
       </p>
-      <p style="font-size: 12px; color: #8b949e;">
+      <p style="font-size: 12px; color: #8b949e; margin-bottom: 8px;">
         <b>Tech Stack:</b> Linux • Wireshark • Nmap • Bash
       </p>
-      <p style="font-size: 12px; color: #c9d1d9;">
-        <b>Key Features:</b> Protocol traffic auditing, vulnerability assessment, and hardening recommendations in simulated environments.
+      <p style="font-size: 12px; color: #c9d1d9; line-height: 1.5; margin-bottom: 12px;">
+        <b>Key Features:</b> Protocol traffic auditing, vulnerability assessment, and hardening recommendations in isolated testbeds.
       </p>
       <p style="margin-bottom: 0;">
         <a href="YOUR_NETWORK_STUDY_REPO_URL"><img src="https://img.shields.io/badge/GitHub-Repository-30363d?style=flat-square&logo=github&logoColor=white" alt="Network Study Repo" /></a>
@@ -277,22 +278,22 @@
 
 ## 🏆 Journey & Highlights
 
-<table align="center" width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 15px; font-size: 14px; color: #c9d1d9;">
+<table align="center" width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-size: 14px; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
   <tr>
-    <td width="15%" align="center" style="border-right: 1px solid #30363d; color: #00f0ff; font-weight: bold;">2023</td>
-    <td width="85%" style="padding-left: 15px;">Started B.Tech CSE (Cybersecurity) at BBIT; established strong fundamentals in programming logic and computer architecture.</td>
+    <td width="15%" align="center" style="border-right: 1px solid #30363d; color: #00f0ff; font-weight: bold; font-family: monospace;">2023</td>
+    <td width="85%" style="padding-left: 15px;">Started B.Tech CSE (Cybersecurity) at BBIT; established strong fundamentals in programming logic, syntax, and computer architecture.</td>
   </tr>
   <tr>
-    <td align="center" style="border-right: 1px solid #30363d; border-top: 1px solid #30363d; color: #00f0ff; font-weight: bold; padding-top: 10px;">2024</td>
+    <td align="center" style="border-right: 1px solid #30363d; border-top: 1px solid #30363d; color: #00f0ff; font-weight: bold; padding-top: 10px; font-family: monospace;">2024</td>
     <td style="padding-left: 15px; border-top: 1px solid #30363d; padding-top: 10px;">Deepened expertise in object-oriented programming, relational databases (MySQL/SQLite), and core data structures.</td>
   </tr>
   <tr>
-    <td align="center" style="border-right: 1px solid #30363d; border-top: 1px solid #30363d; color: #00f0ff; font-weight: bold; padding-top: 10px;">2025</td>
-    <td style="padding-left: 15px; border-top: 1px solid #30363d; padding-top: 10px;">Mastered Linux administration, networking fundamentals, and security tooling while developing robust academic projects.</td>
+    <td align="center" style="border-right: 1px solid #30363d; border-top: 1px solid #30363d; color: #00f0ff; font-weight: bold; padding-top: 10px; font-family: monospace;">2025</td>
+    <td style="padding-left: 15px; border-top: 1px solid #30363d; padding-top: 10px;">Mastered Linux administration, networking fundamentals, and security tooling while engineering complex academic projects.</td>
   </tr>
   <tr>
-    <td align="center" style="border-right: 1px solid #30363d; border-top: 1px solid #30363d; color: #00f0ff; font-weight: bold; padding-top: 10px;">2026</td>
-    <td style="padding-left: 15px; border-top: 1px solid #30363d; padding-top: 10px;">Executing major software projects like CampusPilot ERP, completing industry simulations, and preparing for software/security engineering roles.</td>
+    <td align="center" style="border-right: 1px solid #30363d; border-top: 1px solid #30363d; color: #00f0ff; font-weight: bold; padding-top: 10px; font-family: monospace;">2026</td>
+    <td style="padding-left: 15px; border-top: 1px solid #30363d; padding-top: 10px;">Executing major software systems like CampusPilot ERP, completing professional simulations, and preparing for engineering careers.</td>
   </tr>
 </table>
 
@@ -304,21 +305,21 @@
 
 ## 📜 Certifications & Experience
 
-<table align="center" width="100%" style="border: none;">
+<table align="center" width="100%" style="border: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
   <tr>
-    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-      <h3 style="color: #00f0ff; margin-top: 0;">🤖 Infosys Springboard AI Internship</h3>
-      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.5;">
-        Completed structured professional training and practical application development focusing on AI concepts, workflow integration, and software engineering standards.
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 22px;">
+      <h3 style="color: #00f0ff; margin-top: 0; font-size: 17px;">🤖 Infosys Springboard AI Internship</h3>
+      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.6;">
+        Completed structured technical training and practical application development focusing on AI concepts, workflow integration, and software engineering standards.
       </p>
       <p style="font-size: 12px; color: #8b949e; margin-bottom: 0;">
-        <b>Issuer:</b> Infosys Springboard &nbsp;|&nbsp; <b>Domain:</b> Artificial Intelligence / Software Development
+        <b>Issuer:</b> Infosys Springboard &nbsp;|&nbsp; <b>Domain:</b> Artificial Intelligence / Development
       </p>
     </td>
-    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
-      <h3 style="color: #00f0ff; margin-top: 0;">🔒 Cybersecurity Analyst Job Simulation</h3>
-      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.5;">
-        Executed practical security evaluation tasks, analyzed simulated threat logs, and reviewed incident response protocols.
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 22px;">
+      <h3 style="color: #00f0ff; margin-top: 0; font-size: 17px;">🔒 Cybersecurity Analyst Job Simulation</h3>
+      <p style="font-size: 13px; color: #c9d1d9; line-height: 1.6;">
+        Executed practical security evaluation assignments, analyzed simulated threat logs, and reviewed incident mitigation protocols.
       </p>
       <p style="font-size: 12px; color: #8b949e; margin-bottom: 0;">
         <b>Focus:</b> Threat Analysis • Security Auditing • Incident Mitigation
@@ -341,14 +342,6 @@
   <a href="https://www.linkedin.com/in/shubham-srivastava-515730326/"><img src="https://img.shields.io/badge/LinkedIn-Shubham_Srivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
   <a href="mailto:srivastavashubham680@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-<p align="center">
-  <!-- Optional Placeholders for competitive programming / coding profiles -->
-  <a href="YOUR_LEETCODE_PROFILE"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  &nbsp;
-  <a href="YOUR_HACKERRANK_PROFILE"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  &nbsp;
-  <a href="YOUR_GEEKSFORGEEKS_PROFILE"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
 
 ---
@@ -444,7 +437,6 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    # Run every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
@@ -480,49 +472,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 350" width="100%" height="100%">
-  <defs>
-    <linearGradient id="cyberGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117" />
-      <stop offset="100%" stop-color="#161b22" />
-    </linearGradient>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="2" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-  </defs>
-
-  <!-- Background Card -->
-  <rect width="300" height="350" rx="8" fill="url(#cyberGrad)" stroke="#00f0ff" stroke-width="1.5" />
-
-  <!-- Terminal Header Bar -->
-  <rect width="300" height="30" rx="8" fill="#161b22" />
-  <circle cx="20" cy="15" r="5" fill="#ff5f56" />
-  <circle cx="38" cy="15" r="5" fill="#ffbd2e" />
-  <circle cx="56" cy="15" r="5" fill="#27c93f" />
-  <text x="150" y="20" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="middle">shubham@terminal:~</text>
-
-  <!-- Cyber ASCII / Matrix Grid Visual Mockup representing user photo integration -->
-  <g transform="translate(25, 50)" font-family="monospace" font-size="10" fill="#00f0ff" filter="url(#glow)">
-    <text x="0" y="20">01110011 01101000</text>
-    <text x="0" y="35">01110101 01100010</text>
-    <text x="0" y="50">01101000 01100001</text>
-    <text x="0" y="65">01101101 00100000</text>
-    <text x="0" y="80">01010011 01010010</text>
-    
-    <!-- Stylized Portrait Silhouetted Matrix Overlay -->
-    <path d="M75,100 Q75,70 115,70 Q155,70 155,100 Q170,130 160,170 Q130,220 115,250 Q100,220 70,170 Q60,130 75,100 Z" fill="#00f0ff" opacity="0.15" stroke="#00f0ff" stroke-dasharray="3,3" />
-    
-    <text x="0" y="110">SYS.SEC // ACTIVE</text>
-    <text x="0" y="135">&gt; Loading profile data...</text>
-    <text x="0" y="155">&gt; Status: Secure &amp; Ready</text>
-    <text x="0" y="195">-----------------------</text>
-    <text x="0" y="220" fill="#58a6ff">SHUBHAM SRIVASTAVA</text>
-    <text x="0" y="240" font-size="9" fill="#8b949e">B.Tech CSE (Cybersecurity)</text>
-    <text x="0" y="258" font-size="9" fill="#8b949e">BBIT | Kolkata, India</text>
-  </g>
-
-  <!-- Border Highlight / Accent -->
-  <line x1="15" y1="320" x2="285" y2="320" stroke="#00f0ff" stroke-width="0.5" stroke-opacity="0.5" />
-  <text x="150" y="338" font-family="monospace" font-size="9" fill="#00f0ff" text-anchor="middle" letter-spacing="1">CYBERSECURITY // DEV</text>
-</svg>
+          
