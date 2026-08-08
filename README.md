@@ -440,3 +440,89 @@
     <b>Build. Secure. Learn. Repeat.</b> • Designed with precision by Shubham Srivastava © 2026
   </p>
 </div>
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution grid snake svg
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push snake svg to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 350" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cyberGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="300" height="350" rx="8" fill="url(#cyberGrad)" stroke="#00f0ff" stroke-width="1.5" />
+
+  <!-- Terminal Header Bar -->
+  <rect width="300" height="30" rx="8" fill="#161b22" />
+  <circle cx="20" cy="15" r="5" fill="#ff5f56" />
+  <circle cx="38" cy="15" r="5" fill="#ffbd2e" />
+  <circle cx="56" cy="15" r="5" fill="#27c93f" />
+  <text x="150" y="20" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="middle">shubham@terminal:~</text>
+
+  <!-- Cyber ASCII / Matrix Grid Visual Mockup representing user photo integration -->
+  <g transform="translate(25, 50)" font-family="monospace" font-size="10" fill="#00f0ff" filter="url(#glow)">
+    <text x="0" y="20">01110011 01101000</text>
+    <text x="0" y="35">01110101 01100010</text>
+    <text x="0" y="50">01101000 01100001</text>
+    <text x="0" y="65">01101101 00100000</text>
+    <text x="0" y="80">01010011 01010010</text>
+    
+    <!-- Stylized Portrait Silhouetted Matrix Overlay -->
+    <path d="M75,100 Q75,70 115,70 Q155,70 155,100 Q170,130 160,170 Q130,220 115,250 Q100,220 70,170 Q60,130 75,100 Z" fill="#00f0ff" opacity="0.15" stroke="#00f0ff" stroke-dasharray="3,3" />
+    
+    <text x="0" y="110">SYS.SEC // ACTIVE</text>
+    <text x="0" y="135">&gt; Loading profile data...</text>
+    <text x="0" y="155">&gt; Status: Secure &amp; Ready</text>
+    <text x="0" y="195">-----------------------</text>
+    <text x="0" y="220" fill="#58a6ff">SHUBHAM SRIVASTAVA</text>
+    <text x="0" y="240" font-size="9" fill="#8b949e">B.Tech CSE (Cybersecurity)</text>
+    <text x="0" y="258" font-size="9" fill="#8b949e">BBIT | Kolkata, India</text>
+  </g>
+
+  <!-- Border Highlight / Accent -->
+  <line x1="15" y1="320" x2="285" y2="320" stroke="#00f0ff" stroke-width="0.5" stroke-opacity="0.5" />
+  <text x="150" y="338" font-family="monospace" font-size="9" fill="#00f0ff" text-anchor="middle" letter-spacing="1">CYBERSECURITY // DEV</text>
+</svg>
