@@ -2,10 +2,6 @@
   <img src="./dark(1).svg" width="100%" alt="Shubham Srivastava Developer Profile">
 </p>
 
-<p align="center">
-  <img src="./dark(1).svg" width="100%" alt="Shubham Srivastava Developer Profile">
-</p>
-
 <br>
 
 <h1 align="center">Hi 👋, I'm Shubham Srivastava</h1>
