@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./dark(1).svg" width="100%" alt="Shubham Srivastava Developer Profile">
+  <img src="./light.svg" width="100%" alt="Shubham Srivastava Developer Profile">
 </p>
 
 <br>
